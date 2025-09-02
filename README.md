@@ -1,5 +1,3 @@
-# Ecommerce-case-studies-guesstimates
-Business case study project showcasing e-commerce insights, guesstimates, schema design, and strategic recommendations.
 # 📦 E-Commerce Case Studies & Guesstimates  
 
 🚀 **Business Case Study Project by Shakshi Bansal**  
